@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 |  |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |
 | ------- |
