@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
