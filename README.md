@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
