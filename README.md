@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
