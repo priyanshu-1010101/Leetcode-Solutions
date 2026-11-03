@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
