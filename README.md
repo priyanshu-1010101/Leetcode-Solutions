@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
