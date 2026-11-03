@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
