@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
