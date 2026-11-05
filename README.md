@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Memoization
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
