@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3136-valid-word](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3136-valid-word) |
+| [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
+| [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
