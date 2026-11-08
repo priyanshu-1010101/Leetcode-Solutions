@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3921-score-validator](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3813-vowel-consonant-score](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3921-score-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
