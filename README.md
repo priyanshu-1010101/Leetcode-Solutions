@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3136-valid-word](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 ## Hash Table
 |  |
