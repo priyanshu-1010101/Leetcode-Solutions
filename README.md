@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3136-valid-word) |
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3798-largest-even-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
