@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
