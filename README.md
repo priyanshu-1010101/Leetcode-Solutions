@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3798-largest-even-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3798-largest-even-number) |
+| [3813-vowel-consonant-score](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
+| [3813-vowel-consonant-score](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Divide and Conquer
 |  |
