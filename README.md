@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
