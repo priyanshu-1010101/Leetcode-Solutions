@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [2527-find-xor-beauty-of-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3280-convert-date-to-binary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2527-find-xor-beauty-of-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [2527-find-xor-beauty-of-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
 |  |
 | ------- |
