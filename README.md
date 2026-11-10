@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2527-find-xor-beauty-of-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 ## Recursion
 |  |
