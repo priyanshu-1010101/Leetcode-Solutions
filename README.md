@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
