@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
