@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Geometry
 |  |
