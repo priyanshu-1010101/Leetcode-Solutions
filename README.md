@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0419-battleships-in-a-board](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
