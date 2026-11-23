@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0419-battleships-in-a-board](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
