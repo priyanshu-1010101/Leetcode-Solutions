@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0905-sort-array-by-parity](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Bit Manipulation
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
