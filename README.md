@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2293-min-max-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2527-find-xor-beauty-of-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2293-min-max-game](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3248-snake-in-matrix](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3813-vowel-consonant-score](https://github.com/priyanshu-1010101/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
